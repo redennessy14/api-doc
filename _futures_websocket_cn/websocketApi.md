@@ -14,7 +14,7 @@ parameters:
 content_markdown: |-
     正式:
 
-    **wss://xtsocket.cne.kg/websocket**
+    **wss://xtsocket.kybit.io/websocket**
     {: .info}
 
 left_code_blocks:

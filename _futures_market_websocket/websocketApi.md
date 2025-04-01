@@ -14,11 +14,11 @@ parameters:
 content_markdown: |-
     Official:
 
-    wss://fstream.cne.kg
+    wss://fstream.kybit.io
     
-    WS market information subscription address:  wss://fstream.cne.kg/ws/market
+    WS market information subscription address:  wss://fstream.kybit.io/ws/market
     
-    WS user subscription address:  wss://fstream.cne.kg/ws/user
+    WS user subscription address:  wss://fstream.kybit.io/ws/user
 
 left_code_blocks:
 -

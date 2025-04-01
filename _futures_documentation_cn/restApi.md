@@ -8,11 +8,11 @@ parameters:
 content_markdown: |-
     正式:
 
-    **U本位合约:https://fapi.cne.kg**
+    **U本位合约:https://fapi.kybit.io**
     {: .info}
 
 
-    **币本位合约:https://dapi.cne.kg**
+    **币本位合约:https://dapi.kybit.io**
     {: .info}
 
 left_code_blocks:
