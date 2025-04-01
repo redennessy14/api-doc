@@ -15,7 +15,7 @@ parameters:
 content_markdown: >-
     #### **Base Address**
 
-    ##### **wss://fstream.cne.kg/ws/market**
+    ##### **wss://fstream.kybit.io/ws/market**
 
 
     ---

@@ -14,11 +14,11 @@ parameters:
 content_markdown: |-
     正式:
 
-    wss://fstream.cne.kg
+    wss://fstream.kybit.io
     
-    行情ws订阅地址:  wss://fstream.cne.kg/ws/market
+    行情ws订阅地址:  wss://fstream.kybit.io/ws/market
     
-    用户ws订阅地址:  wss://fstream.cne.kg/ws/user
+    用户ws订阅地址:  wss://fstream.kybit.io/ws/user
 
 left_code_blocks:
 -

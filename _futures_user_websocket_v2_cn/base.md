@@ -14,7 +14,7 @@ parameters:
 content_markdown: >-
     #### **基地址**
 
-    ##### **wss://fstream.cne.kg/ws/user**
+    ##### **wss://fstream.kybit.io/ws/user**
 
 
     ---

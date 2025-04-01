@@ -17,13 +17,13 @@ content_markdown: |-
         **How to manage a local order book correctly**
         
 
-        1.Open a stream to wss://fstream.cne.kg/ws/market , depth_update@btc_usdt
+        1.Open a stream to wss://fstream.kybit.io/ws/market , depth_update@btc_usdt
 
 
         2.Buffer the events you receive from the stream.
 
 
-        3.Get a depth snapshot from https://fapi.cne.kg/future/market/v1/public/depth?symbol=btc_usdt&level=500
+        3.Get a depth snapshot from https://fapi.kybit.io/future/market/v1/public/depth?symbol=btc_usdt&level=500
 
 
         4.Drop any event where u is <= lastUpdateId in the snapshot.

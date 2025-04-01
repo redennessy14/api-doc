@@ -7,7 +7,7 @@ parameters:
         content:
 content_markdown: |-
 
-    **production environment: https://sapi.cne.kg**
+    **production environment: https://sapi.kybit.io**
     {: .info}
 
 

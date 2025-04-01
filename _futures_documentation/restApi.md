@@ -8,11 +8,11 @@ parameters:
 content_markdown: |-
     Official:
 
-    **USDT-M:https://fapi.cne.kg**
+    **USDT-M:https://fapi.kybit.io**
     {: .info}
 
 
-    **Coin-M:https://dapi.cne.kg**
+    **Coin-M:https://dapi.kybit.io**
     {: .info}
 
 left_code_blocks:

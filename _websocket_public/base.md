@@ -15,7 +15,7 @@ parameters:
 content_markdown: >-
     #### **Base Address**
 
-    ##### **wss://stream.cne.kg/public**
+    ##### **wss://stream.kybit.io/public**
 
 
     ---
