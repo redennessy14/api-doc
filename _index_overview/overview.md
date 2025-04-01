@@ -6,7 +6,7 @@ parameters:
 content:
 content_markdown: >-
 
-  Welcome to CNE API documentation. CNE provides REST and Websocket APIs to suit your trading needs.
+  Welcome to KYBIT API documentation. KYBIT provides REST and Websocket APIs to suit your trading needs.
 
 
 ---
