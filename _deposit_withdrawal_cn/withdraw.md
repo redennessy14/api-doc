@@ -10,7 +10,7 @@ parameters:
         mandatory: true
         default:
         description: >- 
-                币种名称，可从'获取CNE可充提的币种'接口中获取
+                币种名称，可从'获取KYBIT可充提的币种'接口中获取
         ranges:
     -
         name: 'chain'
@@ -18,7 +18,7 @@ parameters:
         mandatory: false
         default:
         description: >-
-                转账网络名称，可从'获取CNE可充提的币种'接口中获取
+                转账网络名称，可从'获取KYBIT可充提的币种'接口中获取
         ranges:
     -
         name: 'clientOrderId'
